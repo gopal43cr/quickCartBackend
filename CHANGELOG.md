@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.0.0 (2023-11-23)
+
+
+### Features
+
+* add auth routes and their controllers: login & register ([ebcc2d2](https://github.com/gopal43cr/quickCartBackend/commit/ebcc2d21535ebdac2484e8cd0911f5ae62084786))
+* add controller and define root path with its controller ([aa0b590](https://github.com/gopal43cr/quickCartBackend/commit/aa0b590178590a783a070bee935251591287f20d))
+* add error handler middlewares ([0b8c024](https://github.com/gopal43cr/quickCartBackend/commit/0b8c02413f7ca4a3fdefe3c0fb573776ea54a215))
+* add husky and commitizen ([a703981](https://github.com/gopal43cr/quickCartBackend/commit/a703981e915920ebb523d9ceb26554e0f209bb67))
+* add mongoose and setup the mongoose config file ([4b3faf3](https://github.com/gopal43cr/quickCartBackend/commit/4b3faf3b6e3c0cb837075db48f75288b40ab398d))
+* add prettier and .gitattribute file ([d18af62](https://github.com/gopal43cr/quickCartBackend/commit/d18af62b8913b29ca08cb5f1b73a9290932ee046))
+* add project dotenv friendly ([555dc7e](https://github.com/gopal43cr/quickCartBackend/commit/555dc7e77c244f9727fa9839406d2d223ec9331d))
+* add register feature ([85656ce](https://github.com/gopal43cr/quickCartBackend/commit/85656ced9fe6148a6650dc914d7c92059e7d2f76))
+* create & define user model ([781af5f](https://github.com/gopal43cr/quickCartBackend/commit/781af5f3480c46ae97b47277283fd9165b3ac96c))
+* users can now login and fetch their jwt token from the response ([421a2f3](https://github.com/gopal43cr/quickCartBackend/commit/421a2f36a49b265654cf415dd52e1971111c7ad9))
+* users can now register and log in using their generated JWT token ([dceaadc](https://github.com/gopal43cr/quickCartBackend/commit/dceaadca165baed408b23969553f9b3403b74923))
+
+
+### Bug Fixes
+
+* fix file formating after running prettier package ([6c2cec4](https://github.com/gopal43cr/quickCartBackend/commit/6c2cec423819f2de493e012f0df0791762a01696))
+
 ## [1.3.0](https://github.com/Silent-Watcher/jwt-node/compare/v1.2.0...v1.3.0) (2023-10-18)
 
 
