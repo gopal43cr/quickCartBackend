@@ -19,7 +19,7 @@
 			"path": "./node_modules/cz-conventional-changelog"
 		}
 	},
-	"start": "server.js",
+	"start": "node server.js",
 	"scripts": {
 		"start":"node server.js",
 		"dev": "nodemon server",
