@@ -21,6 +21,7 @@
 	},
 	"start": "server.js",
 	"scripts": {
+		"start":"node server.js",
 		"dev": "nodemon server",
 		"prettier": "npx prettier --write .",
 		"prepare": "husky install"
